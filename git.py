@@ -26,3 +26,6 @@
 # git push origin "브랜치이름"
 # git pull origin master    # 마스터 브랜치서 소스 가지고 온다
 # git checkout "브랜치이름"   # 브랜치에서 이동할 때.
+
+
+New man adjust this file
